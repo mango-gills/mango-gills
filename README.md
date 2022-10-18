@@ -1,4 +1,4 @@
-[![MasterHead](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80)](https://portfolio-v2-zeta-flax.vercel.app/)
+[![MasterHead](https://i.ibb.co/RQDn47J/cropped.png)](https://portfolio-v2-zeta-flax.vercel.app/)
 
 <h1 align="center">Hi and Hello World! 👋, My name is Mango G.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mango-gills&label=Profile%20views&color=0e75b6&style=flat" alt="mango-gills" /> </p>
