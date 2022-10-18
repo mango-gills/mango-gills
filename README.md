@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://portfolio-v2-zeta-flax.vercel.app/" target="_blank" rel="noreferrer"> 
-        <img src="https://i.ibb.co/ssVSJtX/cropped.png" alt="react"/>
+        <img src="https://i.ibb.co/hg48cZX/cropped2.png" alt="image"/>
     </a>
 </p>
 
