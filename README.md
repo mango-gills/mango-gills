@@ -34,5 +34,4 @@
  </p>
  <hr/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mango-gills&show_icons=true&theme=dark&locale=en&layout=compact" alt="mango-gills" /></p>
-<hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mango-gills&show_icons=true&locale=en&theme=tokyonight" alt="mango-gills" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mango-gills&&theme=tokyonight" alt="mango-gills" /></p>
