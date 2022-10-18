@@ -9,9 +9,9 @@
 
 - 💻 All of my projects are available at [https://github.com/mango-gills](https://github.com/mango-gills)
 
-- 🐓 How to reach me **markencinares21@gmail.com**
+- 📮 How to reach me **markencinares21@gmail.com**
 
-- ⚡ Fun fact **I like chickens**
+- 🐓 Fun fact **I like chickens**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
