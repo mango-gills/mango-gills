@@ -1,5 +1,7 @@
 <p align="center">
-    [![MasterHead](https://i.ibb.co/RQDn47J/cropped.png)](https://portfolio-v2-zeta-flax.vercel.app/)
+    <a href="https://portfolio-v2-zeta-flax.vercel.app/" target="_blank" rel="noreferrer"> 
+        <img src="https://i.ibb.co/RQDn47J/cropped.png" alt="react"/>
+    </a>
 </p>
 
 <h1 align="center">Hi and Hello World! 👋, My name is Mango G.</h1>
