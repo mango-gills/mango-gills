@@ -30,8 +30,17 @@
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
- </p>
- <hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mango-gills&show_icons=true&theme=dark&locale=en&layout=compact" alt="mango-gills" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mango-gills&show_icons=true&locale=en&theme=tokyonight" alt="mango-gills" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mango-gills&&theme=tokyonight" alt="mango-gills" /></p>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+</p>
+ 
+<hr/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mango-gills&show_icons=true&theme=dark&locale=en&layout=compact" alt="mango-gills" /></p>
+
+<br />
+<br />
+
+<p>&nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mango-gills&show_icons=true&locale=en&theme=tokyonight" alt="mango-gills" /> 
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mango-gills&&theme=tokyonight" alt="mango-gills" />
+</p>
