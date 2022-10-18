@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/270366/pexels-photo-270366.jpeg?cs=srgb&dl=pexels-pixabay-270366.jpg&fm=jpg)](https://portfolio-v2-zeta-flax.vercel.app/)
+[![MasterHead]()](https://portfolio-v2-zeta-flax.vercel.app/)
 
 <h1 align="center">Hi and Hello World! 👋, My name is Mango G.</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mango-gills&label=Profile%20views&color=0e75b6&style=flat" alt="mango-gills" /> </p>
