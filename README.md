@@ -5,7 +5,7 @@
 
 - 🚧 I’m currently working on a project.
 
-- 📺 I’m currently learning **React and MeteorJS**
+- 📺 Learning **React and MeteorJS**
 
 - 💻 All of my projects are available at [https://github.com/mango-gills](https://github.com/mango-gills)
 
