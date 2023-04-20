@@ -38,4 +38,4 @@
 <img align="center" height="175" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=mango-gills&&theme=tokyonight&count_private=true" alt="mango-gills" />
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mango-gills&show_icons=true&theme=dark&locale=en&layout=compact" alt="mango-gills" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mango-gills&show_icons=true&theme=dark&locale=en&layout=compact&count_private=true" alt="mango-gills" /></p>
