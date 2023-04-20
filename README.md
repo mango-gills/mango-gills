@@ -34,7 +34,7 @@
 <hr/>
 
 <p>
-<img align="center" height="175" width="420" src="https://github-readme-stats.vercel.app/api?username=mango-gills&show_icons=true&locale=en&theme=tokyonight" alt="mango-gills" /> 
+<img align="center" height="175" width="420" src="https://github-readme-stats.vercel.app/api?username=mango-gills&show_icons=true&locale=en&theme=tokyonight&count_private=true" alt="mango-gills" /> 
 <img align="center" height="175" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=mango-gills&&theme=tokyonight" alt="mango-gills" />
 </p>
 
